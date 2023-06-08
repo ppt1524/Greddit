@@ -1,0 +1,34 @@
+.feed{
+    flex:5.5,
+}
+
+.feedWrapper{
+    padding: 20px;
+}
+.homeContainer{
+    /* background-color : black; */
+    display: flex;
+    width: 100%;
+}
+.searchbar-here {
+    width: 100%;
+    height: 30px;
+    background-color: lightslategray;
+    border-radius: 30px;
+    display: flex;
+    align-items: center;
+  } 
+  
+  .searchIcon-here {
+    font-size: 20px !important;
+    margin-left: 10px;
+  }
+  
+  .searchInput-here {
+    border: none;
+    width: 70%;
+  }
+  
+  .searchInput-here:focus {
+    outline: none;
+  }

@@ -1,0 +1,12 @@
+.feed{
+    flex:5.5,
+}
+
+.feedWrapper{
+    padding: 20px;
+}
+.homeContainer{
+    /* background-color : black; */
+    display: flex;
+    width: 100%;
+}

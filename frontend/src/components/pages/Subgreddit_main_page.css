@@ -1,0 +1,11 @@
+.homeContainer{
+    display: flex;
+    width: 100%;
+}
+.feed{
+    flex:5.5,
+}
+
+.feedWrapper{
+    padding: 20px;
+}
